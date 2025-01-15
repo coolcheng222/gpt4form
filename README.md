@@ -1,24 +1,6 @@
-# gpt4form
+# GPT4 front End(aborted)
 
-## Project setup
-```
-npm install
-```
+Access: http://localhost:8080/:id
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Once aimed to build a UI for interacting with a specific LLM based on a provided API (in my `gpttrying` project). This UI was designed for language-based question answering, and the core logic has been implemented. 
+However, due to the API becoming inactive, further development has been halted.
